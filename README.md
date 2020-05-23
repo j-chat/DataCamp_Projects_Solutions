@@ -7,7 +7,8 @@ DataCamp often has specials (discounts on subscriptions, events, etc.) listed on
 ## Free Projects
 | Title     |  Description |  Language     |
 |------------|------------|------------------|
-
+| Phyllotaxis: Draw Flowers Using Mathematics | Use R to make art and create imaginary flowers inspired by nature. | R |
+| Introduction to DataCamp Projects | If you've never done a DataCamp project, this is the place to start! | R, Python, SQL |
 
 ## Premium Projects
 | Title     |  Description |  Language     |
